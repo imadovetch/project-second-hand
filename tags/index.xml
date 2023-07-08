@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Welcome</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Welcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Achux21</copyright>
+    <lastBuildDate>Fri, 07 Jul 2023 15:06:26 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CatPictures2</title>
+      <link>/tags/catpictures2/</link>
+      <pubDate>Fri, 07 Jul 2023 15:06:26 +0100</pubDate>
+      
+      <guid>/tags/catpictures2/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>TryHackMe</title>
+      <link>/tags/tryhackme/</link>
+      <pubDate>Fri, 07 Jul 2023 15:06:26 +0100</pubDate>
+      
+      <guid>/tags/tryhackme/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Hack-The-Box</title>
+      <link>/tags/hack-the-box/</link>
+      <pubDate>Tue, 27 Jun 2023 15:06:26 +0100</pubDate>
+      
+      <guid>/tags/hack-the-box/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>TwoMillion</title>
+      <link>/tags/twomillion/</link>
+      <pubDate>Tue, 27 Jun 2023 15:06:26 +0100</pubDate>
+      
+      <guid>/tags/twomillion/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
